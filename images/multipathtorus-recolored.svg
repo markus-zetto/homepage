@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="300mm"
-   height="150mm"
-   viewBox="0 0 300 150"
+   width="324.46948mm"
+   height="175.07419mm"
+   viewBox="0 0 324.46948 175.07419"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
@@ -25,14 +25,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0255231"
-     inkscape:cx="317.399"
-     inkscape:cy="357.86616"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:cx="538.26189"
+     inkscape:cy="405.64664"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="2552"
+     inkscape:window-y="131"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -105,12 +105,26 @@
        id="path-effect3236"
        is_visible="true"
        lpeversion="1" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter11633"
+       x="-0.051537931"
+       y="-0.10472979"
+       width="1.1030758"
+       height="1.2094583">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="23.670526"
+         id="feGaussianBlur11635" />
+    </filter>
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Ebene 2"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(12.20277,12.474393)">
     <ellipse
        style="fill:none;fill-opacity:0.17;stroke:#000000;stroke-width:2;stroke-dasharray:none"
        id="path3018"
@@ -131,7 +145,7 @@
        inkscape:path-effect="#path-effect3345"
        inkscape:original-d="M 95.459414,64.499603 C 128.74148,62.60788 162.36727,60.715892 195.8208,58.82364 c 33.45353,-1.892253 8.42821,2.580248 12.64192,3.869975" />
     <path
-       style="fill:#cccccc;stroke:#000000;stroke-width:0.975112"
+       style="opacity:0.2;fill:#ffffff;stroke:#000000;stroke-width:0.975112;filter:url(#filter11633)"
        d="M 527.77703,556.78653 C 329.46939,549.33645 156.39612,491.79998 68.738998,404.18398 33.996868,369.45815 15.566456,334.23281 11.724943,295.2152 8.9438352,266.96796 16.816598,235.3353 33.57022,207.44116 70.840203,145.38807 148.34569,93.187787 256.94205,56.999272 393.52165,11.485654 563.45991,-1.6601187 721.58298,21.056431 c 168.30191,24.17888 303.38742,85.720379 365.32972,166.434849 20.7725,27.06767 32.4969,55.14226 35.4178,84.80879 6.277,63.75475 -37.5058,129.90121 -119.8283,181.0352 -92.57774,57.50385 -227.38121,94.32459 -375.01754,102.43373 -26.22305,1.44033 -75.15991,1.93974 -99.70763,1.01753 z M 602.6193,304.14247 c 51.27905,-4.05979 102.70198,-18.55261 150.15649,-42.31946 27.75384,-13.90009 47.59806,-26.73637 76.29654,-49.35267 l 1.98812,-1.56678 -2.26605,-3.065 c -1.24633,-1.68575 -2.74009,-3.06501 -3.31945,-3.06501 -0.57936,0 -3.23934,1.80666 -5.91107,4.0148 -5.38235,4.44842 -22.18854,16.73827 -28.26038,20.66592 l -3.90045,2.52307 -16.81591,-5.25602 C 680.42472,198.53996 587.2559,191.20871 492.43163,204.83384 453.70428,210.3985 410.12669,221.2343 374.20289,234.23203 l -13.40419,4.84982 -6.58561,-4.12038 c -8.17979,-5.11779 -16.64665,-11.02675 -28.13758,-19.63698 -4.88153,-3.65778 -9.29671,-6.65049 -9.81152,-6.65049 -1.48341,0 -5.49269,5.95959 -4.57157,6.79541 0.45707,0.41473 5.21903,4.02833 10.58214,8.03023 35.64465,26.59763 73.78937,46.5787 116.03835,60.78351 53.53732,18.00015 106.67132,24.42233 164.30639,19.85932 z"
        id="path604"
        transform="scale(0.26458333)" />
@@ -140,7 +154,8 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(12.20277,12.474393)">
     <path
        style="display:inline;fill:none;fill-opacity:0.17;stroke:#000000;stroke-width:1;stroke-dasharray:none"
        d="M 35.087784,82.043497 C 49.411718,71.024627 61.367707,56.94313 69.917571,41.021748 c 4.116391,-7.665459 7.441037,-15.724699 10.835934,-23.735854 0.67556,-1.594163 1.360366,-3.198482 2.332635,-4.631112 0.972269,-1.43263 2.261881,-2.6990765 3.859326,-3.366839 0.735379,-0.3074027 1.525625,-0.4830128 2.321986,-0.5159968"

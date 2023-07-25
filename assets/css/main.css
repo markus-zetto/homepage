@@ -2603,6 +2603,16 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.image.big {
+			display: block;
+			margin: 0 10em 2em 10em;
+			width: 100%;
+		}
+
+			.image.big img {
+				width: 60%;
+			}
+
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
